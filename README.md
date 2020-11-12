@@ -1,7 +1,7 @@
 # GeoTracer
 IP Lookup, with more detail than you think.
 
-![In Action](/images/1.jpg)
+![In Action](1.jpg)
 
 GeoTracer is a handwritten Python program built to query IP addresses to get *a lot of information*. Currently the location data is accurate up to around 10km loci. This tool was built for educational and reconaissance purposes, and should NOT be used illegally. Whether you do or not, that is up to you, but I do not assume any responsibility.
 
