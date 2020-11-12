@@ -9,10 +9,10 @@ This tool works with both IPv4 and IPv6 addresses and is based off of the https:
 
 Dependencies:
 
--Tkinter
--requests
--Pillow/PIL
--urllib (if you somehow do not have it).
+-Tkinter<br />
+-requests<br />
+-Pillow/PIL<br />
+-urllib (if you somehow do not have it).<br />
 
 This project is open source, and as such you can use this comercially and change it how you like. Please do leave the credits, I work hard to make these tools and it is a load of fun! You should see two files: geotracer and geotracer.py.
 
